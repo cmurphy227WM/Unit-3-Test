@@ -3,32 +3,40 @@ form p{
     width: 50%;
 }
 body{
-    vertical-align: middle;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px 0px 5px;
+    border: 5px solid white;
+    background: url(sansdance\ copy.gif)  right;
+    background-size: 20%;
+    background-position: 90% 10%;
 }
 html{
-    background: radial-gradient( aqua, teal, black);
-    color: white;
     height: 100%;
-    text-align: center;
+    background: black;
+    font-family: Comic Sans MS;
 }
 input{
     background-color: rgb(233, 164, 16);
-    color: indigo;
-    border: 2px solid  indigo;
-    box-shadow: indigo 3px 3px 3px;
+    color: white;
+    border: 2px solid  white;
+    box-shadow: white 3px 3px 3px;
     
 }
 
 button{
-    background-color: rgb(219, 146, 50);
-    color:  (41, 23, 0);
+    background-color: black;
+    color: white;
     border: 2px solid  black;
     margin: 2px;
     font-size: 15px;
-    box-shadow: indigo 3px 3px 3px;
+    border: 3px solid white;
+    font-family: Comic Sans MS;
+
 }
 form, p{
-    color:rgb(236, 178, 71);
+    color: white;
     font-size: 20px;
     text-shadow: black 2px 2px 2px;
 }
